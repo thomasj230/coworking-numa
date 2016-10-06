@@ -1,6 +1,7 @@
 {
     "url": "https://coworking-numa.scalingo.io",
     "timeZone": "Europe/Paris",
-    "typeForm_api_key": "fdb06ffc5faa335fb0b88f2d826ea3ca3e99c332"
-    "typeForm_id": "2117701"
+    "typeForm_api_key": "fdb06ffc5faa335fb0b88f2d826ea3ca3e99c332",
+    "typeForm_id": "rCYstA",
+    "slack_token": "xoxp-32049965426-73269172881-88215761315-cf85a1595d81f9bb39a25a74aba233fc"
 }
